@@ -7,3 +7,5 @@ Details of my section:
 **When:** Fall 2018, Thursdays 12:30PM - 4:10PM  
 **Who:** Benedetta Piantella  
 
+Head over to the [Wiki pages](https://github.com/benedetoula/ideation-prototyping/wiki) for Syllabys, Class Schedule and more! 
+
