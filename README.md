@@ -1,4 +1,4 @@
-#Welcome to Ideation & Prototyping!
+# Welcome to Ideation & Prototyping!
 
 Details of my section:  
 
